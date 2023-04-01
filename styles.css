@@ -3,12 +3,12 @@
     font-size: 65px;
     text-align: center;
     background-color: plum;
-    margin: 30px 300px 30px 300px;
+    margin: 30px 150px 30px 150px;
         
 }
 
 .foodName{
-    margin: 0 50px 80px 50px;
+    margin: 0 50px 30px 50px;
     font-size: 20px;
     color: brown;
     font-family: Ink Free;
@@ -20,7 +20,7 @@ img{
     padding: 10px;
     background-color:aliceblue;
     align-items: center;
-    margin: 30px 50px 10px 50px;
+    margin: 30px 50px 0px 50px;
 }
 
 body{
