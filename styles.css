@@ -2,12 +2,22 @@
     font-family: Ink Free;
     font-size: 65px;
     text-align: center;
-    background-color: plum;
-    margin: 30px 150px 30px 150px;
+    background: radial-gradient(circle at 10% 20%, rgb(253, 239, 132) 0%, rgb(247, 198, 169) 54.2%, rgb(21, 186, 196) 100.3%);
+    margin: 30px 300px 30px 300px;
+    border: 10px groove rgba(85, 59, 147, 0.6);
+    border-radius: 50px 0 50px 0;
+    box-shadow: 10px 10px 28px 21px rgba(132, 49, 199, 0.2);
         
 }
 
-.foodName{
+.heading2{
+    font-family: Ink Free;
+    font-size:50px;
+    text-align:center;
+    
+    background: linear-gradient(109.6deg, rgb(17, 151, 147) 11.2%, rgb(154, 214, 212) 55.4%, rgb(255, 233, 171) 100.2%);
+}
+.foodName, h3{
     margin: 0 50px 30px 50px;
     font-size: 20px;
     color: brown;
@@ -23,9 +33,8 @@ img{
     margin: 30px 50px 0px 50px;
 }
 
-body{
-    background-color:blanchedalmond;
-    
+body, button{
+    background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
     text-align: center;
 }
 
@@ -34,4 +43,17 @@ body{
     transition: all ease ;
     border-radius: 50px;
     box-shadow: 0 0 5px (136, 219, 140);
+}
+
+.intro{
+    font-family:"Lucida Console", "Courier New", monospace;
+    color:#085f63;
+    margin:0 200px 30px 200px;
+}
+
+ol, ul, .left-text{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#4a4a4a;
+    margin:0 200px 30px 200px;
 }
