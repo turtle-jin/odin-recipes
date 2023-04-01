@@ -28,3 +28,10 @@ body{
     
     text-align: center;
 }
+
+.item img:hover{
+    transform: scale(1.05);
+    transition: all ease ;
+    border-radius: 50px;
+    box-shadow: 0 0 5px (136, 219, 140);
+}
