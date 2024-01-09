@@ -2,11 +2,7 @@
     font-family: 'Poiret One', cursive;
     font-size: 100px;
     text-align: center;
-    color: #be95c4;
-    margin: 30px 300px 30px 300px;
-    
-    
-        
+    color: #be95c4;      
 }
 
 .heading2{
@@ -58,7 +54,7 @@ body, button{
     transform: scale(1.05);
     transition: all ease ;
     border-radius: 50px;
-    box-shadow: 1em 1em 0.5em -0.5em;
+    box-shadow: 1em 1em 0.5em -0.5em purple;
     
 }
 
